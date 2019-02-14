@@ -51,9 +51,9 @@ else if (grade >= 20 && grade <30){
 	}
 else if (grade >= 10 && grade <20){                                        
         return 'I';
-	{
+	}
 else if (grade >= 0 && grade <10){                                        
 	return 'J';
 	}
-return 'z';
+//return 'z';
 }
