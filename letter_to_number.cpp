@@ -16,7 +16,7 @@ return 0;
 }
 
 char addendum(double a){
-double b = a % 10;
+double b = fmod(a,10);
 if (b >= 0 && b <=3){
 	return '-';
 	}
