@@ -55,4 +55,5 @@ else if (grade >= 10 && grade <20){
 else if (grade >= 0 && grade <10){                                        
 	return 'J';
 	}
+return 'z';
 }
